@@ -57,6 +57,4 @@
 
 	addCSSRule(sheet, cssRule.selector, cssRule.rules);
 
-	console.log(sheet);
-
 })(window);
